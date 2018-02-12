@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-ni",
+  "version": "1.0.0",
+  "description": "Native Instruments eslint preset",
+  "main": "index.js",
+  "repository": "https://bitbucket.org/nidsg/eslint-config-ni.git",
+  "author": "Jascha Dachtera",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-graphql": "^1.5.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
